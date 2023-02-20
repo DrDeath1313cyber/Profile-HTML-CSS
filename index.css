@@ -1,0 +1,200 @@
+body {
+    margin: 0%;
+    text-align: center;
+    color: #40514E;
+
+
+}
+.bodytwo {
+    background-color: #e2f8f6;
+    position: relative;
+    padding-top: 200px;
+
+
+}
+/*fONTS AND H1 H2 H's P */
+h1 {
+    font-size: 90px;
+    margin: 50px auto 0 auto;
+    font-family: 'Cedarville Cursive', cursive;
+    color: #66BFBF;
+    line-height: 2;
+
+
+}
+h2 {
+    padding: 10px;
+    font-family: 'Comfortaa', serif;
+    font-weight: normal;
+    color: #66BFBF;
+  
+}
+h3 {
+    padding: 10px;
+    font-family: 'Comfortaa', serif;
+    font-weight: bold;
+    color: #66BFBF;
+
+}
+.programmer {
+
+    font-size: 30px;
+    padding: 20px;
+    font-weight: normal;
+}
+
+p {
+    padding: 10px;
+    font-family: 'Comfortaa', serif;
+    line-height: 2;
+    
+}
+
+a {
+
+    color: #11999E;
+    font-family: 'Comfortaa', serif;
+    margin: 10px 20px;
+    text-decoration: none;
+
+}
+a:hover {
+    
+        background: #EAF6F6;
+        
+}
+.footer-link {
+    padding: 10px;
+    font-family: 'Comfortaa', serif;
+    font-weight: bold;
+    color: #11999E;
+
+}
+
+.letstalk {
+
+    padding-bottom: 100px;
+    width: 40%;
+    margin: 40px auto 60px;
+
+
+}
+/*horizontal line dotted */
+hr {
+    width: 3px;
+    border-style: dotted none none none;
+    border-width: 5px;
+    border-color: rgb(180, 180, 180);
+    padding: 20;
+    clear: both;
+
+    
+
+}
+
+.profile {
+    padding-bottom: 50px;
+
+
+}
+#bottom-text {
+   
+   color: #EAF6F6;
+   width: auto;
+   padding: auto;
+}
+
+
+
+
+/*CONTAINERS TOP MID AND BOTTOM */
+.top {
+    background-color: #EAF6F6;
+    position: relative;
+    padding-top: 170px;
+}
+.bottom-container {
+background-color: #66BFBF;
+padding: 50px 0 20px;
+margin-top: 40px;
+position: relative;
+
+}
+.middle-container {
+    margin: 100px;
+
+}
+
+/*images and elements on the page IDS */
+
+.hacker {
+
+    height: auto;
+    max-width: 100%;
+    padding: 20px;
+
+}
+
+.cloud-one {
+    position: absolute;
+    top: 100px;
+    right: 500px;
+
+}
+
+.cloud-two {
+    position: absolute;
+    left: 400px;
+    bottom: 400px;
+
+}
+
+.skill-row {
+
+    width: 50%;
+    margin: 100px auto 100 auto;
+    text-align: left;
+    
+    
+}
+
+.cooking {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+
+}
+.mushroom {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+
+}
+/*Button*/
+.btn {
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    text-shadow: 1px 2px 7px #66BFBF;
+    -webkit-box-shadow: 0px 6px 3px #666666;
+    -moz-box-shadow: 0px 6px 3px #666666;
+    box-shadow: 0px 6px 3px #666666;
+    font-family: 'Comfortaa', serif;
+    color: #ffffff;
+    font-size: 20px;
+    background: #66BFBF;
+    padding: 7px 16px 7px 16px;
+    border: solid #1f628d 1px;
+    text-decoration: none;
+    bottom: 30px;
+    
+
+
+
+  }
+  
+  .btn:hover {
+    background: #71e6ad;
+    text-decoration: none;
+    
+  }
